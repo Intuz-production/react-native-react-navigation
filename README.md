@@ -8,7 +8,13 @@ Let’s ready to implement it.
 
 - Simple Login and Signup UI
 - Navigation drawer
+<br>
+<img src="Screenshots/navigation_drawer.png" width=500 alt="Screenshots/navigation_drawer.png">
+
 - Bottom tabs
+<br>
+<img src="Screenshots/bottom_tabs.png" width=500 alt="Screenshots/bottom_tabs.png">
+
 - Stack Navigation
 - Store session data using AsyncStorage
 
