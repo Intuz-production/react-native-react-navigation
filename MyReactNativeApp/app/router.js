@@ -120,7 +120,7 @@ export const LoggedOut = createStackNavigator({
         }
     }
 });
-
+// create stack navigator
 export const stackNav = createStackNavigator({
     Home: {
         screen: Home,
@@ -140,7 +140,7 @@ export const stackNav = createStackNavigator({
         }
     }
 });
-
+// create drawer navigator
 export const MyDrawerNavigator = createDrawerNavigator({
     Home: {
         screen: stackNav
