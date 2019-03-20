@@ -5,6 +5,7 @@ Let’s ready to implement it.
 
 <br>
 <h1>Features</h1>
+
 - Simple Login and Signup UI
 - Navigation drawer
 - Bottom tabs
