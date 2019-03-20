@@ -177,7 +177,7 @@ const DrawerStack = createDrawerNavigator({
         contentComponent: SideMenu,
         drawerWidth: Dimensions.get('window').width - 120,
     })
-
+// create stack navigator
 const DrawerNavigation = createStackNavigator({
     DrawerStack: {
         screen: DrawerStack,
